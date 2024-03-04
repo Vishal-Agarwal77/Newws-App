@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Hindustan Times",
+            "title": "Advancing disease detection and prevention in public health - Hindustan Times",
+            "description": "This article is authored by Chandra Ganjoo, group CEO, Trivitron Healthcare.",
+            "url": "https://www.hindustantimes.com/ht-insight/public-health/advancing-disease-detection-and-prevention-in-public-health-101706507696057.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/29/1600x900/Yadav-complained-of-suffering-from-shoulder-pain--_1706204622683_1706507930525.jpg",
+            "publishedAt": "2024-01-29T06:03:29Z",
+            "content": "MedTech is revolutionising public health by transforming health care diagnostics and treatment methods, leading to enhanced patient outcomes, increased health care system efficiency, and community we… [+5157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Pramod Madhav",
+            "title": "Man follows Google Maps' 'fastest route', car ends up on stairs in Nilgiris - India Today",
+            "description": "An SUV driver who was using Google Maps to reach Karnantaka ended up stuck on a fleet of stairs with his vehicle in Gudalur a hill town in Tamil Nadu The man was driving along with his friends after spending the weekend in the town",
+            "url": "https://www.indiatoday.in/india/story/google-maps-fastest-route-claims-stuck-on-fleet-of-stairs-gudalur-tamil-nadu-way-back-to-karnataka-2494780-2024-01-29",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/google-maps-led-car-driver-to-fleet-of-stairs-291028119-16x9_0.jpeg?VersionId=hrx.5gWyudKo5AG8lrknUXTF0K7GXxGR",
+            "publishedAt": "2024-01-29T06:03:25Z",
+            "content": "An SUV driver relying on Google Maps for navigation ended up stuck on a fleet of stairs in Gudalur, a hill town in Tamil Nadu. The incident happened when a man was driving from Gudalur, where he and … [+730 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Business Desk",
+            "title": "Stock market today: BSE Sensex surges over 500 points, crosses 71,000; Nifty50 above 21,500 - IndiaTimes",
+            "description": "India Business News: Stock market today: Get the latest updates on the stock market today. BSE Sensex surges over 500 points to cross the 71,000 mark again, while Nifty50 remains above 21,500. Stay informed about the market-moving events and Budget 2024.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-january-29-2024-dalal-street-budget-2024/articleshow/107216675.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-107216675,width-1070,height-580,imgsize-31926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-01-29T05:58:00Z",
+            "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Pariksha Pe Charcha LIVE: 'Compete with yourself, not others', says PM Modi - Mint",
+            "description": "Pariksha Pe Charcha is an initiative started by PM Modi to discuss and overcome exam-related stress. He inspected an exhibition at Bharat Mandapam and interacted with students.",
+            "url": "https://www.livemint.com/news/india/pariksha-pe-charcha-2024-live-pm-narendra-modi-education-minister-dharmendra-pradhan-students-bharat-mandapam-delhi-11706498853880.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/01/29/1600x900/ruygkrg_1706507794524_1706507804347.PNG",
+            "publishedAt": "2024-01-29T05:55:06Z",
+            "content": "Prime Minister Narendra Modi on Monday attended the seventh edition of 'Pariksha Pe Charcha' at the Bharat Mandapam in Delhi, advising parents against treating their child's report card as their visi… [+3105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Rahul Gandhi's Yatra In Bihar After Nitish Kumar's Friend-To-Foe Switch - NDTV",
+            "description": "Congress leader Rahul Gandhi's Bharat Jodo Nyay Yatra entered Bihar today, a day after his party went from being a part of the state's ruling coalition to the Opposition, thanks to Chief Minister Nitish Kumar's fifth flip-flop in a decade.",
+            "url": "https://www.ndtv.com/india-news/rahul-gandhi-nitish-kumar-bihar-politics-rahul-gandhis-yatra-in-bihar-after-nitish-kumars-friend-to-foe-switch-4951928",
+            "urlToImage": "https://c.ndtvimg.com/2024-01/bo70vih8_rahul-gandhi-nitish-kumar_625x300_28_January_24.jpg",
+            "publishedAt": "2024-01-29T05:31:04Z",
+            "content": "Nitish Kumar parted ways with the RJD and Congress yesterday\r\nPatna: Congress leader Rahul Gandhi's Bharat Jodo Nyay Yatra entered Bihar today, a day after his party went from being a part of the sta… [+2406 chars]"
+        }
+    ]
+}
